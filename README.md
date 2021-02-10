@@ -8,6 +8,10 @@ Sniffipy is a simple wrapper for the [sniffip.com](https://sniffip.com) website,
 
 ## Installation
 
+`pip install sniffipy`</br></br>
+
+or</br></br>
+
 `git clone https://github.com/SmellyN3rd/sniffipy`</br></br>
 `pip install -r sniffipy/requirements.txt`</br></br>
 
